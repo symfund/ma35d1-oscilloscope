@@ -6,7 +6,7 @@ ADC capture
 M4
 A35
 
-HMI
+HMI: LittlevGL/Microwindows/Qt/emWin
 
 Real-Time
 
